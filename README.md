@@ -25,6 +25,10 @@ The models are trained on high-resolution drone imagery that has been tiled into
 
 ### Sample Detection Output
 
+<img src="cv_project/04_experiments/results/deteccion_fasterrcnn.png" width="800">
+
+*Faster R-CNN detection results showing 8,083 detected palm trees*
+
 Detection results are exported as GeoJSON files for GIS integration:
 - `detected_palms_fasterrcnn.geojson`
 - `detected_palms_yolo.geojson`
