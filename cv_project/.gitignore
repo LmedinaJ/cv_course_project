@@ -1,2 +1,25 @@
 # Archivos grandes
 01_raw_data/Sample-drone-data-copy.tif
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+cv_course/
+**/cv_course/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Repositorios embebidos
+cv_course_repo/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
